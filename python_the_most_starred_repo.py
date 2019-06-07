@@ -23,3 +23,5 @@ print('Repository:', repo_dict['html_url'])
 print('Created:', repo_dict['created_at'])
 print('Updated:', repo_dict['updated_at'])
 print('Description:', repo_dict['description'])
+
+print("info from denoza")
