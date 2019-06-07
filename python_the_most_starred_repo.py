@@ -22,4 +22,4 @@ print('Stars:', repo_dict['stargazers_count'])
 print('Repository:', repo_dict['html_url'])
 print('Created:', repo_dict['created_at'])
 print('Updated:', repo_dict['updated_at'])
-print('Description:', repo_dict['description'])
+print('Description:', repo_dict['description']
